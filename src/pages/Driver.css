@@ -1,0 +1,19 @@
+
+
+
+.loadingBar{
+    background-color: rgba(110, 109, 109, 0.58);
+    position: fixed;
+    margin: 0 auto;
+    top: 0;
+    left: 0;
+    right: 20;
+    bottom: 0;
+  z-index: 3;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 180px
+
+}
