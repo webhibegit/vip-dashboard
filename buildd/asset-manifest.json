@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a00dfbf2.css",
+    "main.js": "/static/js/main.b7848307.js",
+    "static/js/787.1351b7fb.chunk.js": "/static/js/787.1351b7fb.chunk.js",
+    "static/media/banner1.jpg": "/static/media/banner1.038ab4be7e5a86969170.jpg",
+    "static/media/bgimg1.jpg": "/static/media/bgimg1.b64d9abada58fc528c50.jpg",
+    "static/media/serviceBanner.png": "/static/media/serviceBanner.36a5b44ad6b6101a566c.png",
+    "static/media/testimonialimg.jpg": "/static/media/testimonialimg.1d8b179578ffe8c054bf.jpg",
+    "static/media/banner2.jpg": "/static/media/banner2.e0cbadeb2fc1d6f928c1.jpg",
+    "static/media/macbbok.jpg": "/static/media/macbbok.de61856865588dd7a4f6.jpg",
+    "static/media/contactbanner.jpg": "/static/media/contactbanner.8125ae76e9e239e7784c.jpg",
+    "static/media/aboutImg.jpg": "/static/media/aboutImg.e57ba6a0558d636a056e.jpg",
+    "static/media/service1.jpg": "/static/media/service1.d8e8b596246b8594a71f.jpg",
+    "static/media/service3.jpg": "/static/media/service3.f412b3457a5d4b2b212f.jpg",
+    "static/media/service5.jpg": "/static/media/service5.e6ad278816bbf4d77e7f.jpg",
+    "static/media/aboutBanner.jpg": "/static/media/aboutBanner.c33932efb4676ed9904d.jpg",
+    "static/media/service2.jpg": "/static/media/service2.c33932efb4676ed9904d.jpg",
+    "static/media/service6.jpg": "/static/media/service6.4787ca23b0c17a0214b8.jpg",
+    "static/media/service4.jpg": "/static/media/service4.742072fdfaeb05a8112e.jpg",
+    "static/media/carImg2.jpg": "/static/media/carImg2.49ca7c648b3a6821767f.jpg",
+    "static/media/carImg1.jpg": "/static/media/carImg1.31d4722ff7e85f37f7dc.jpg",
+    "static/media/car-01.jpg": "/static/media/car-01.8e30903f4d057dfe4715.jpg",
+    "index.html": "/index.html",
+    "main.a00dfbf2.css.map": "/static/css/main.a00dfbf2.css.map",
+    "main.b7848307.js.map": "/static/js/main.b7848307.js.map",
+    "787.1351b7fb.chunk.js.map": "/static/js/787.1351b7fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a00dfbf2.css",
+    "static/js/main.b7848307.js"
+  ]
+}
